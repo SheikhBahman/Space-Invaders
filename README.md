@@ -21,4 +21,6 @@ Bahman Sheikh
 ![GitHub Logo](/IMG/1.png)
 
 # Racket Code Screentshot
+
+For complete code please see the rkt file.
 ![GitHub Logo](/IMG/2.png)
