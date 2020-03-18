@@ -1,28 +1,23 @@
 # Description
 
-The focuses on this project/assignment is to develop a python code (without using libraries) for simple naive Bayes and decision forest classifiers and then using the developed code to perform Diabetes Classification.
+Software Engineering: Using an multi-paradigm programming language to develop a simple game. 
+This is my final project submitted for Software Engineering Course offered by UBC at edx.
 
 # Author
 Bahman Sheikh
 
 # Programming Language
-Python
-
-# Data
-A famous collection of data on whether a patient has diabetes, known as the Pima Indians dataset, and originally owned by the National Institute of Diabetes and Digestive and Kidney Diseases can be found at Kaggle. Download this dataset from https://www.kaggle.com/kumargh/pimaindiansdiabetescsv. 
+- Racket (DrRacket)
 
 # Objectives
 
-## Part A 
-Without using libraries:
-- Build a simple naive Bayes classifier to classify this data set. 
-- Use a normal distribution to model each of the class-conditional distributions.
-- Compute an estimate of the accuracy of the classifier by averaging over 10 test-train splits. Each split should randomly assign 20% of the data to test, and the rest to train.
+1. The program file should be set to beginning student language and there should be no require declarations other than (require 2htdp/image) and (require 2htdp/universe).
+2. The file should be neat and tidy, no tests or code should be commented out other than stubs and templates and all scratch work should be removed. 
+3. All HtDW elements should be present, well formed, and have high internal quality. The file must include Constants, Data Definitions and Functions. The Constants section must be complete, there must be a main function that is correct and operates on a compound type. The main function must have all necessary big-bang options, and for each option, the handler must be present in the file. 
+4. All elements of HtDF must be present and have high internal quality. This includes the Signature, Purpose, Stub, Examples/Tests, Template and the Function Body.
+5. The program must be a working Space Invaders game, operating on the compound data definitions provided. 
 
-## Part B
-Adjust the developed code in part A so that, for attribute 3 (Diastolic blood pressure), attribute 4 (Triceps skinfold thickness), attribute 6 (Body mass index), and attribute 8 (Age), it regards a value of 0 as a missing value when estimating the class-conditional distributions, and the posterior. Compute an estimate of the accuracy of the classifier by averaging over 10 test-train splits.
-
-# Results
-![GitHub Logo](/Diabetes%20Classification/IMG/1.png)
+# Space Invaders Project: Domain Analysis
+![GitHub Logo](/IMG/1.png)
 
 
